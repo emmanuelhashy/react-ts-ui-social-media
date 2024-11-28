@@ -1,11 +1,11 @@
 import './App.css'
-import { FileTreeDemo } from './pages/FileTreeDemo'
+import { CodeComparisonDemo } from './pages/CodeCompareDemo'
 
 function App() {
 
   return (
     <div className='flex justify-center mt-20'>
-    <FileTreeDemo/>
+    <CodeComparisonDemo/>
     </div>
   )
 }
