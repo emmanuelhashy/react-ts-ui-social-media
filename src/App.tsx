@@ -1,11 +1,11 @@
 import './App.css'
-import { FileTreeDemo } from './pages/FileTreeDemo'
+import { HeroVideoDialogDemoTopInBottomOut } from './pages/hero-dialog-demo'
 
 function App() {
 
   return (
     <div className='flex justify-center mt-20'>
-    <FileTreeDemo/>
+    <HeroVideoDialogDemoTopInBottomOut/>
     </div>
   )
 }
