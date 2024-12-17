@@ -1,11 +1,11 @@
 import './App.css'
-import { FileTreeDemo } from './pages/FileTreeDemo'
+import { WipeToRevealDemo } from './pages/WipeToRevealDemo'
 
 function App() {
 
   return (
     <div className='flex justify-center mt-20'>
-    <FileTreeDemo/>
+    <WipeToRevealDemo/>
     </div>
   )
 }
